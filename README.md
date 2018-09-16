@@ -1,5 +1,4 @@
-# Udacity Feed Reader Testing
-Udacity | Feed Reader Testing
+# Udacity | Feed Reader Testing
 Testing the Feed Reader app using Javascript testing framework **Jasmine**.
 
 ## Deployment from master:
