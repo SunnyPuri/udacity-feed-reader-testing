@@ -1,8 +1,12 @@
 # Udacity Feed Reader Testing
 Udacity | Feed Reader Testing
+Testing the Feed Reader app using Javascript testing framework **Jasmine**.
 
 ## Deployment from master:
 >   https://sunnypuri.github.io/udacity-feed-reader-testing/
+
+## Reference
+- [2.1 Jasmine documentation](http://jasmine.github.io/2.1/introduction.html)
 
 ## Installation
 
